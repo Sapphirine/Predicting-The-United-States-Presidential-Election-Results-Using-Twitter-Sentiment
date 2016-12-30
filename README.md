@@ -1,4 +1,4 @@
-# Predicting-The-United-States-Presidential-Election-Results-Using-TwitterSentiment
+# Predicting-The-United-States-Presidential-Election-Results-Using-Twitter-Sentiment
 Final project for Big Data Analytics course Fall 2015
 
 Usage: run_election_simulation.sh
